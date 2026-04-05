@@ -46,6 +46,10 @@ Related routes:
 
 A tool belongs in `run` only if its value is obvious quickly and the artifact strengthens public motion more than it increases clutter.
 
+## First live tool
+
+- [`tools/hello`](./tools/hello) — smallest executable contact artifact for `run`
+
 ## Status
 
 Active anchor surface.
